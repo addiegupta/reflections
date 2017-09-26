@@ -22,3 +22,9 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams make it easier to understand branch structure of Git commits by depicting the abstract commits
 as easier to visualise nodes 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging 2 branches together merges their commits into one branch so that changes made in either of them can be
+unified. In the diagram, both the branches merge to form one chain as they no longer need to be seperate
