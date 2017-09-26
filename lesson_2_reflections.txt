@@ -12,3 +12,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 The staging are ensures that a final check can be made before commiting a change. This way the changes made
 can be checked to ensure that the commit contains a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Creating an experimental feature or testing some features which might not be usable right now can be a good case
+for creating branches to keep history organised. 
