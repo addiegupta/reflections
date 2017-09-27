@@ -9,3 +9,13 @@ remote repository?
 As the repository on GitHub is not the exact same as the one saved offline, the files are manually added or removed 
 from either offline or GitHub. It thus makes sense to keep track of files manual rather than automating it
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Cloning is repository is creating a copy of the repository e.g cloning a GitHub repository to local machine
+Forking is creating a copy of a repository from GitHub to GitHub i.e. a user's repository is copied to another user's
+GitHub account so that a link is maintained to the original repository
+Branches are just different nodes in a repository so that experimental features, additional features can be created
+and tested without interfering with the main branch of commits.
+Cloning is used to create offline copies of a repository generally.Forking should be done when some other users
+repository is being edited on or modified without affecting the original repository.Branching should be done when
+a change is being made in the repository that may not work properly and should not interfere with the main work.
