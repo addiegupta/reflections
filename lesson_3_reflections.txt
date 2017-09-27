@@ -19,3 +19,9 @@ and tested without interfering with the main branch of commits.
 Cloning is used to create offline copies of a repository generally.Forking should be done when some other users
 repository is being edited on or modified without affecting the original repository.Branching should be done when
 a change is being made in the repository that may not work properly and should not interfere with the main work.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Having a copy of the last known state of the remote stored locally helps in merging commits when 
+a pull is made from the online repository.
+
