@@ -25,3 +25,7 @@ What is the benefit of having a copy of the last known state of the remote store
 Having a copy of the last known state of the remote stored locally helps in merging commits when 
 a pull is made from the online repository.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without GitHub it would be hard to keep track of changes made. Also reverting to a functional version of 
+the project would be difficult.
